@@ -9,4 +9,4 @@ if increment:
 
 st.write("Count = ", count)
 
-st.write(st.sessionstate)
+st.write(st.session_state)
